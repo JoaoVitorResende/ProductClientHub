@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\Git\\ProductClientHub\\ProductClientHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|e:\\git\\productclienthub\\productclienthub\\productclienthub.exceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3980BAC5-4708-4EE7-86C5-AB245AE452A8}|ProductClientHub.Comunication\\ProductClientHub.Comunication.csproj|e:\\git\\productclienthub\\productclienthub\\productclienthub.comunication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3980BAC5-4708-4EE7-86C5-AB245AE452A8}|ProductClientHub.Comunication\\ProductClientHub.Comunication.csproj|solutionrelative:productclienthub.comunication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|e:\\git\\productclienthub\\productclienthub\\producclienthub.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|solutionrelative:producclienthub.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|e:\\git\\productclienthub\\productclienthub\\producclienthub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,32 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\Class1.cs",
-              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\Class1.cs",
-              "RelativeToolTip": "ProductClientHub.Exceptions\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ProducClientHub.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ProducClientHub.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:14:10.231Z",
+              "WhenOpened": "2025-01-29T21:37:17.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Comunication\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Comunication\\Class1.cs",
-              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Comunication\\Class1.cs",
-              "RelativeToolTip": "ProductClientHub.Comunication\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:13:42.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\Program.cs",
               "RelativeDocumentMoniker": "ProducClientHub.API\\Program.cs",
