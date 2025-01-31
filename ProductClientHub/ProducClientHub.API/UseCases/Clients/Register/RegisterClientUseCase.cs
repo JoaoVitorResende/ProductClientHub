@@ -1,5 +1,6 @@
 ﻿using ProductClientHub.Comunication.Requests;
 using ProductClientHub.Comunication.Responses;
+using ProductClientHub.Exceptions.ExceptionsBase;
 
 namespace ProducClientHub.API.UseCases.Clients.Register
 {
@@ -11,7 +12,8 @@ namespace ProducClientHub.API.UseCases.Clients.Register
             var result = validator.Validate(request);
             if(!result.IsValid)
             {
-                throw new ArgumentException("erro nos dados recebidos");
+                var erros = result.Errors.Select(failure => failure.ErrorMessage).ToList();
+                throw new ErrorOnValidationExcpetion(erros);
             }
             return new ResponseClientJson();
         }
