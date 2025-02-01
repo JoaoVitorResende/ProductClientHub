@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|solutionrelative:producclienthub.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3980BAC5-4708-4EE7-86C5-AB245AE452A8}|ProductClientHub.Comunication\\ProductClientHub.Comunication.csproj|e:\\git\\productclienthub\\productclienthub\\productclienthub.comunication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3980BAC5-4708-4EE7-86C5-AB245AE452A8}|ProductClientHub.Comunication\\ProductClientHub.Comunication.csproj|solutionrelative:productclienthub.comunication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|e:\\git\\productclienthub\\productclienthub\\producclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|solutionrelative:producclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|e:\\git\\productclienthub\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\erroronvalidationexcpetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\erroronvalidationexcpetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|e:\\git\\productclienthub\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\producclienthubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\producclienthubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|e:\\git\\productclienthub\\productclienthub\\producclienthub.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|solutionrelative:producclienthub.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ErrorOnValidationExcpetion.cs",
               "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationExcpetion.cs",
               "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationExcpetion.cs",
               "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationExcpetion.cs",
               "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationExcpetion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T21:56:54.804Z",
+              "WhenOpened": "2025-02-01T16:47:05.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ProducClientHub.API\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "ProducClientHub.API\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:31:47.672Z",
               "EditorCaption": ""
             },
             {
@@ -53,48 +58,9 @@
               "RelativeDocumentMoniker": "ProducClientHub.API\\Controllers\\ClientesController.cs",
               "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "ProducClientHub.API\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T21:32:09.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterClientUseCase.cs",
-              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "RelativeDocumentMoniker": "ProducClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "RelativeToolTip": "ProducClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T21:32:19.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponseErrorMessagesJson.cs",
-              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Comunication\\Responses\\ResponseErrorMessagesJson.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Comunication\\Responses\\ResponseErrorMessagesJson.cs",
-              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Comunication\\Responses\\ResponseErrorMessagesJson.cs",
-              "RelativeToolTip": "ProductClientHub.Comunication\\Responses\\ResponseErrorMessagesJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T21:31:58.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProducClientHubException.cs",
-              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProducClientHubException.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ProducClientHubException.cs",
-              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProducClientHubException.cs",
-              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ProducClientHubException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T21:38:20.638Z",
               "EditorCaption": ""
             }
           ]
