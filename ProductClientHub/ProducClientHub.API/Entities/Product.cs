@@ -1,0 +1,11 @@
+﻿namespace ProducClientHub.API.Entities
+{
+    public class Product
+    {
+        public Guid Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Brand { get; set; } = string.Empty;
+        public string Price { get; set; } = string.Empty;
+        public Guid ClientId { get; set; }
+    }
+}
