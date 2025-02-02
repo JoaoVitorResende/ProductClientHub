@@ -9,7 +9,7 @@ namespace ProducClientHub.API.Infrastructure
         public DbSet<Product> Products {  get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source =E:\\Git\\ProductClientHub");
+            optionsBuilder.UseSqlite("Data Source=E:\\Git\\ProductClientHub\\data.db");
         }
     }
 }
