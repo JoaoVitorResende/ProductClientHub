@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProducClientHub.API.UseCases.Clients.GetAll;
 using ProducClientHub.API.UseCases.Clients.Register;
 using ProductClientHub.Comunication.Requests;
 using ProductClientHub.Comunication.Responses;
@@ -10,7 +11,7 @@ namespace ProducClientHub.API.Controllers
     public class ClientesController : ControllerBase
     {
         [HttpPost]
-        [ProducesResponseType(typeof(ResponseClientJson), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ResponseShortClientJson), StatusCodes.Status201Created)]
         [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status400BadRequest)]
         public IActionResult Register([FromBody]RequestClientJson request)
         {
@@ -21,12 +22,18 @@ namespace ProducClientHub.API.Controllers
         [HttpPut]
         public IActionResult Update()
         {
-            return Ok();
+            return Ok();    
         }
         [HttpGet]
+        [ProducesResponseType(typeof(ResponseAllClientsJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
         public IActionResult GetAll()
         {
-            return Ok();
+            var useCase = new GetAllClientsUseCase();
+            var response = useCase.Execute();
+            if (response.Clients.Count == 0)
+                return NoContent();
+            return Ok(response);
         }
         [HttpGet]
         [Route("{id}")]
