@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\Git\\ProductClientHub\\ProductClientHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|e:\\git\\productclienthub\\productclienthub\\producclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|solutionrelative:producclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|e:\\git\\productclienthub\\productclienthub\\producclienthub.api\\usecases\\clients\\update\\updateclientusecasecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|solutionrelative:producclienthub.api\\usecases\\clients\\update\\updateclientusecasecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|e:\\git\\productclienthub\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|e:\\git\\productclienthub\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\erroronvalidationexcpetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9C24BC-320E-46BC-827F-9F4C79F1D502}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\erroronvalidationexcpetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|e:\\git\\productclienthub\\productclienthub\\producclienthub.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|solutionrelative:producclienthub.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|e:\\git\\productclienthub\\productclienthub\\producclienthub.api\\usecases\\clients\\getall\\getallclientsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AFC00B3-B6B3-4BF3-AECB-EDC33CFF95A8}|ProducClientHub.API\\ProducClientHub.API.csproj|solutionrelative:producclienthub.api\\usecases\\clients\\getall\\getallclientsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3980BAC5-4708-4EE7-86C5-AB245AE452A8}|ProductClientHub.Comunication\\ProductClientHub.Comunication.csproj|e:\\git\\productclienthub\\productclienthub\\productclienthub.comunication\\responses\\responseallclientsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3980BAC5-4708-4EE7-86C5-AB245AE452A8}|ProductClientHub.Comunication\\ProductClientHub.Comunication.csproj|solutionrelative:productclienthub.comunication\\responses\\responseallclientsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResponseAllClientsJson.cs",
-              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Comunication\\Responses\\ResponseAllClientsJson.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Comunication\\Responses\\ResponseAllClientsJson.cs",
-              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Comunication\\Responses\\ResponseAllClientsJson.cs",
-              "RelativeToolTip": "ProductClientHub.Comunication\\Responses\\ResponseAllClientsJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RegisterClientUseCase.cs",
+              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeDocumentMoniker": "ProducClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "RelativeToolTip": "ProducClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T20:38:51.376Z",
+              "WhenOpened": "2025-02-04T21:11:26.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorOnValidationExcpetion.cs",
+              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationExcpetion.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationExcpetion.cs",
+              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationExcpetion.cs",
+              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationExcpetion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:35:44.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\NotFoundException.cs",
+              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\NotFoundException.cs",
+              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:35:41.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetAllClientsUseCase.cs",
-              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\UseCases\\Clients\\GetAll\\GetAllClientsUseCase.cs",
-              "RelativeDocumentMoniker": "ProducClientHub.API\\UseCases\\Clients\\GetAll\\GetAllClientsUseCase.cs",
-              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\UseCases\\Clients\\GetAll\\GetAllClientsUseCase.cs",
-              "RelativeToolTip": "ProducClientHub.API\\UseCases\\Clients\\GetAll\\GetAllClientsUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Title": "UpdateClientUseCasecs.cs",
+              "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\UseCases\\Clients\\Update\\UpdateClientUseCasecs.cs",
+              "RelativeDocumentMoniker": "ProducClientHub.API\\UseCases\\Clients\\Update\\UpdateClientUseCasecs.cs",
+              "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\UseCases\\Clients\\Update\\UpdateClientUseCasecs.cs",
+              "RelativeToolTip": "ProducClientHub.API\\UseCases\\Clients\\Update\\UpdateClientUseCasecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T20:32:56.086Z",
+              "WhenOpened": "2025-02-04T20:17:37.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "ProducClientHub.API\\Controllers\\ClientesController.cs",
               "ToolTip": "E:\\Git\\ProductClientHub\\ProductClientHub\\ProducClientHub.API\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "ProducClientHub.API\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T14:17:36.514Z",
               "EditorCaption": ""

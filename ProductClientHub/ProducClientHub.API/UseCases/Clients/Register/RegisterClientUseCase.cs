@@ -1,5 +1,6 @@
 ﻿using ProducClientHub.API.Entities;
 using ProducClientHub.API.Infrastructure;
+using ProducClientHub.API.UseCases.Clients.SharedValidtor;
 using ProductClientHub.Comunication.Requests;
 using ProductClientHub.Comunication.Responses;
 using ProductClientHub.Exceptions.ExceptionsBase;
@@ -16,7 +17,6 @@ namespace ProducClientHub.API.UseCases.Clients.Register
             {
                 Email = request.Email,
                 Name = request.Name,
-                
             };
             dbContext.Clients.Add(entity);
             dbContext.SaveChanges();
@@ -28,7 +28,7 @@ namespace ProducClientHub.API.UseCases.Clients.Register
         }
         private void Validate(RequestClientJson request)
         {
-            var validator = new RegisterClientValidator();
+            var validator = new RequestClientValidator();
             var result = validator.Validate(request);
             if (!result.IsValid)
             {
