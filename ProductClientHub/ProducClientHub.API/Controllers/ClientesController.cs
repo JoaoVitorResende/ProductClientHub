@@ -22,6 +22,7 @@ namespace ProducClientHub.API.Controllers
         }
         [HttpPut]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status404NotFound)]
         [Route("{id}")]
         public IActionResult Update([FromRoute] Guid id, [FromBody] RequestClientJson request)
